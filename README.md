@@ -1,0 +1,2 @@
+# HaltmannSDK5.19.2510AAGI
+1.0a
